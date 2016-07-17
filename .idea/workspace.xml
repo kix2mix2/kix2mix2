@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32414487-9a4d-42d6-b907-b5be00b4b3cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/offcanvas/offcanvas.css" afterPath="$PROJECT_DIR$/offcanvas/offcanvas.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="kix2mix2.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offcanvas.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="offcanvas.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/offcanvas/offcanvas.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
@@ -88,10 +88,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/stuff.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/offcanvas/tipsy.js" />
         <option value="$PROJECT_DIR$/offcanvas/index.html" />
         <option value="$PROJECT_DIR$/offcanvas/offcanvas.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -201,12 +201,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468689209091</updated>
-      <workItem from="1468689211068" duration="24187000" />
+      <workItem from="1468689211068" duration="24280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24187000" />
+    <option name="totallyTimeSpent" value="24280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="23" width="1256" height="737" extended-state="0" />
@@ -256,14 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/offcanvas/tipsy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="610">
@@ -306,6 +298,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>
