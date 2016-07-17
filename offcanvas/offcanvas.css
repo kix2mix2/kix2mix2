@@ -2,6 +2,9 @@
  * Style tweaks
  * --------------------------------------------------
  */
+
+
+
 html,
 body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
@@ -34,7 +37,7 @@ h2 {
     padding: 0%;
     margin: 0%;
     border: 0.5px solid #999999;
-    cursor: url(no.png), pointer;
+    cursor: url(no128.ico), pointer;
 
 }
 .jumbotron{

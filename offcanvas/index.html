@@ -75,7 +75,7 @@
               <td>30</td>
             </tr>
             <tr>
-              <td>HCI Kids are stupid</td>
+              <td>Bitching about HCI/VIS</td>
               <td><svg width="20" height="20">
                 <circle cx="10" cy="10" r="10" fill="#77C4D3" />
               </svg></td>
@@ -186,8 +186,10 @@
               .attr("class", "basic")
               .attr("r", function(d) { return d.radius; })
               .style("fill", function(d, i) {
-                if (i%4!=3) {return color[i%4]}
-                else if (i==201) {return "#EA2E49"}// <== Add these
+                if (i<=40) {return color[1]}
+                else if (i>40 && i<=100) {return color[2]}
+                else if (i>100 && i<=120) {return color[0]}
+                else if (i==199) {return "#EA2E49"}// <== Add these
                 else    { return "url(#image)" } });
 
 
