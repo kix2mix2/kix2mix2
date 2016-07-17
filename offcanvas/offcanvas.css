@@ -34,7 +34,7 @@ h2 {
     padding: 0%;
     margin: 0%;
     border: 0.5px solid #999999;
-    cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
+    cursor: url(no.png), pointer;
 
 }
 .jumbotron{
@@ -71,6 +71,7 @@ h2 {
     margin: -1px 0 0 0;
     top: 100%;
     left: 0;
+}
 
 
 
